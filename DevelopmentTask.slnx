@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DevelopmentTask.Api/DevelopmentTask.Api.csproj" Id="30b67239-81d2-4f33-a77f-800398986769" />
+    <Project Path="src/DevelopmentTask.Core/DevelopmentTask.Core.csproj" Id="347a1dac-f75d-4bb7-99b9-74286b99dfd7" />
+    <Project Path="src/DevelopmentTask.Infrastructure/DevelopmentTask.Infrastructure.csproj" Id="3b8f26d8-9565-4f82-b91b-6452e7ab3048" />
+    <Project Path="src/DevelopmentTask.Auth/DevelopmentTask.Auth.csproj" Id="72c60959-4207-4b22-bc69-d5038c46b7a8" />
+  </Folder>
+</Solution>
